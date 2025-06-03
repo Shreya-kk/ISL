@@ -24,7 +24,8 @@ matplotlib
 mediapipe
 numpy
 oauthlib
-opencv-python-headless
+opencv-contrib-python
+opencv-python
 opt-einsum
 packaging
 pandas
@@ -49,3 +50,5 @@ tensorflow-io-gcs-filesystem
 termcolor
 typing_extensions
 urllib3
+Werkzeug
+wrapt
