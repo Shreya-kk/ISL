@@ -23,8 +23,8 @@ MarkupSafe
 matplotlib
 numpy
 oauthlib
-opencv-python
-mediapipe
+mediapipe==0.9.1.0
+opencv-python-headless==4.7.0.72
 opt-einsum
 packaging
 pandas
