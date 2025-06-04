@@ -1,6 +1,6 @@
+Flask==2.2.3
 opencv-python-headless==4.7.0.72
-mediapipe
 tensorflow==2.11.0
-numpy
-streamlit
-
+mediapipe==0.9.1.0
+pandas==1.5.3
+numpy==1.24.2
