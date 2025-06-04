@@ -1,6 +1,7 @@
-Flask==2.2.3
-opencv-python-headless==4.7.0.72
-tensorflow==2.11.0
-mediapipe==0.9.1.0
-pandas==1.5.3
-numpy==1.24.2
+Flask
+opencv-python-headless
+tensorflow
+mediapipe
+pandas
+numpy
+gunicorn
